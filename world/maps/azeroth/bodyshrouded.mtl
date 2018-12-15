@@ -1,0 +1,4 @@
+newmtl tex_204094
+illum 2
+map_Ka tex_204094.png
+map_Kd tex_204094.png

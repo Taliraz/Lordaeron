@@ -1,0 +1,16 @@
+newmtl tex_200774
+illum 2
+map_Ka tex_200774.png
+map_Kd tex_200774.png
+newmtl tex_123963
+illum 2
+map_Ka tex_123963.png
+map_Kd tex_123963.png
+newmtl tex_197413
+illum 2
+map_Ka tex_197413.png
+map_Kd tex_197413.png
+newmtl tex_200776
+illum 2
+map_Ka tex_200776.png
+map_Kd tex_200776.png

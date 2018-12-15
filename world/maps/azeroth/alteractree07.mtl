@@ -1,0 +1,8 @@
+newmtl tex_203629
+illum 2
+map_Ka tex_203629.png
+map_Kd tex_203629.png
+newmtl tex_203628
+illum 2
+map_Ka tex_203628.png
+map_Kd tex_203628.png
